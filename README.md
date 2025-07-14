@@ -2,5 +2,5 @@
 Notebooks and Data for Silo Project
 
 ## To-Do
-[] Reorganize rewrite folder
-[] Finish implementing scraper changes based on validation
+- [] Reorganize rewrite folder
+- [] Finish implementing scraper changes based on validation
